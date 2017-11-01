@@ -1,5 +1,5 @@
 def using_while
-  x = 0
+  x = 6
   while x < 10
     puts "Wingardium Leviosa"
     x += 1
