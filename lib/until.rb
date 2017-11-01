@@ -1,4 +1,4 @@
-def using_while
+def using_until
   x = 0
   until x == 0
     puts "Wingardium Leviosa"
